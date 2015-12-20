@@ -1,5 +1,8 @@
 # pleer
 php api pleer
 
-# create
+# Create
 pooya azarpour
+
+# Information
+Connect to pleer.com with php language and use api
